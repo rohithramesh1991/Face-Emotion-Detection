@@ -1,6 +1,8 @@
 # Face-Emotion-Detection
 This project is another example of how powerful CNN architecture can be. Training the model to recognize the certain set of emotion. This model is trained mainly on 7 set of emotions such as, Anger, Disgust, Fear, Happy, Sad, Surprise, Neutral.
 
+
+
 To get the data, kindly go to “https://www.kaggle.com/c/emotion-detection-from-facial-expressions/overview”
 
 This was one of the Kaggle project and the winners of the competition obtained accuracy as given below.   
